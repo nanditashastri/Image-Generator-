@@ -1,1 +1,2 @@
 # Image-Generator-
+This project demonstrates free image generation in Google Colab using Hugging Face’s Diffusers with Stable Diffusion (v1.5 or SDXL), running without external APIs. It enables text-to-image synthesis guided by prompts and parameters like steps, seed, and guidance scale. With VRAM optimizations, it runs efficiently even on free GPUs, supports batch generation, and saves outputs locally or to Google Drive, offering a practical way to explore generative AI art with a balance of speed and quality.
